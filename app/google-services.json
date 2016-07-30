@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "992083243226",
+    "firebase_url": "https://boundtest-d3258.firebaseio.com",
+    "project_id": "boundtest-d3258",
+    "storage_bucket": "boundtest-d3258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992083243226:android:e89bc04d0b1a1591",
+        "android_client_info": {
+          "package_name": "com.victorluo.boundtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992083243226-j73k7ddcohfg340jlc0tca967bnfpllf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkT8-H0zEIQNUZiCaAjUKZg6BFOAA-Hcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
