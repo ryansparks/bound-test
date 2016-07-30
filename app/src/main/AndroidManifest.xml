@@ -19,12 +19,21 @@
         </activity>
         <activity android:name=".SigninActivity" />
         <activity android:name=".CreateaccountActivity" />
-        <activity android:name=".MainActivity"></activity>
-        <activity android:name="com.facebook.FacebookActivity"
-            android:configChanges=
-                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar"
-            android:label="@string/app_name" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name=".FriendsActivity" />
+        <activity android:name=".MeetingInfoActivity" />
+        <activity android:name=".PayPalActivity" />
+        <activity android:name=".SettingActivity" />
+        <activity android:name=".DateTimeLocationPriceActivity" />
+        <activity android:name=".CurrentMeetupsActivity" />
+        <activity android:name=".AboutBoundActivity" />
+        <activity android:name=".ChangeCardActivity" />
+        <activity android:name=".ForgotPasswordActivity"></activity>
     </application>
 
 </manifest>

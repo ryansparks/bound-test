@@ -7,6 +7,86 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.victorluo.boundtestapp.MainActivity">
+    tools:context="com.victorluo.boundtestapp.MainActivity"
+    android:background="#7AC25A">
+
+    <ImageView
+        android:layout_width="123dp"
+        android:layout_height="113dp"
+        android:id="@+id/imageView3"
+        android:background="@drawable/boundlogo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Who Are You Meeting?"
+        android:id="@+id/button3"
+        android:background="#4ac25a"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/searchView"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/searchView"
+        android:textSize="18dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Next Meetup"
+        android:id="@+id/button5"
+        android:background="#4ac25a"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/expandableListView2"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/expandableListView2"
+        android:textSize="18dp" />
+
+    <ExpandableListView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:id="@+id/expandableListView"
+        android:background="#f1f1f1"
+        android:paddingTop="0dp"
+        android:layout_above="@+id/button5"
+        android:layout_alignParentStart="true" />
+
+    <Gallery
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gallery"
+        android:layout_alignTop="@+id/expandableListView"
+        android:layout_alignEnd="@+id/button5" />
+
+    <ExpandableListView
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:id="@+id/expandableListView2"
+        android:background="#F1F1F1"
+        android:paddingTop="0dp"
+        android:layout_above="@+id/button16"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:id="@+id/button16"
+        android:background="#f1f1f1"
+        android:textColor="#4ac25a"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:textSize="18dp" />
+
+    <SearchView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchView"
+        android:background="#ffffff"
+        android:backgroundTint="#eeeeee"
+        android:layout_above="@+id/expandableListView"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/expandableListView" />
 
 </RelativeLayout>
