@@ -14,4 +14,11 @@ public class MainActivity extends AppCompatActivity {
     protected void testMethod() {
         return;
     }
+
+    protected void methodInDevelopment() {
+        //now it does something
+        return;
+
+        //hi ryan
+    }
 }
