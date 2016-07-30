@@ -12,8 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     protected void testMethod() {
-        ferokfjpweofjawef
-                sdkjfdkfl
-
+        return;
     }
 }
