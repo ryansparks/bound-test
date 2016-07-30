@@ -1,2 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_1e8082925d6f896d1941a8df54c7a436a3efd200\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_93cc4a668b63d43302bad6d5c06b85163a1f0e3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_c6d4ca0db1d246a80d744876c68dfdb08e200c94\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_b808a8fc12fbd14f487561d349813983fbd98bc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_4edfeb5faeb86e504d4d3dcea03ed44a9a90976a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_6c9c9f2b7e423e39ef183bf5a4e2f97069b93dcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_b07c47cb78e619e7569e19937de31cd4126c41b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_da793663e9ff72e1097f7f1ceb329e9c49d5bc0d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_b7ea31208814d92472783741b51a67ae16c5abf2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_7134096bfd256403dfef116fa031e6a2f29bd100\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_92667464edcf05b045d9d538efa42ddadcc8da67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_6e1a3fbe7d8433051312e8abfaab10bd3da5c934\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_803208fe1670aabb3b6a3b7c08986903168c0c96\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_d84fd5d0259f462bc8bfe55bf5b39446da82e36c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_b7e9a809c549c3f0db02631c586f94e5fab3ed67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_18366d5d822dbad0326acc8c57141f3882b5fca5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_17752444b9009b8b081a5050b918c58ebf3d6fb8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_57617d43ed66ac663f486a8787b59e4881587ced\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_2b5b43c3d0932f3ee0d5eb5ebfdfa02656800708\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_2aec121c0df23639ec1469de32c240ae762c9098\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_c35913b438076a48a18da00f23ed18f34ceccd75\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_47b122b179c7a44ad206b0382034fc31f62f4ec9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_bfe86a93ee050877a912a6367e14d58120bc747e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7cb8f70e66bdc25ee66ab8351a4e7214b6517aa8">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.14.0_13abb7022cb7c61c0bb24e8541a52c272e6f7781\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_6614d01409739a2ed9992ba382f4a22acfc60974\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa1d1a9cb4994799eaf163e20596e0bbbffc37c1">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5279bcd54d1ef7c1b115ac238f6eabbd7ce9c53a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_493a88ece7a3fdf2c49af0ea6b819dcc00d8b662\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_2b204dde47813abcf24b91c761e6e35f9e5a0acf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_53892326f6bf22c0f238e5e3d78fd7decdddc128\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_a69e8ef2540631628d6c5e076d673c5d48fb8ddd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_7bf8841cc3bc323a5d671b5c66e1836090fe54c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_15d44b2501b916ece119f9daacc6da3cfdf4ecb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_93b7e9e1362fd060bf01e57dab4cc4d7443d1c49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_c4090c18337387e91a057c08892b3269ee53211a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0e8c29563ec80143fbe0ae3011602316231192a7">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1410532d558170de7c03af56b195093d42d3c6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_449f3a4cd37027a9277a4629f59b8fcc4e954613\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_1cfd75030fa841cae1fce1ef2c04e66568609880\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\EmiLivChen\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\EmiLivChen\Documents\Bound Test App\bound-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_3753690284268483b767be74304d6c9138583af4\classes.dex" />
+    </item>
+
+</items>
